@@ -2,10 +2,14 @@
 DDoSDB system embedded in a virtual machine 
 
 
-Directory structure:
 
-###DDoSDB root directory: /opt/
-###DDDoSDB website settings (django): /opt/ddosdb/website/
+## Directory structure:
+
+  - DDoSDB root directory: /opt/
+  - DDDoSDB website settings (django): /opt/ddosdb/website/
+  
+###
+###
 
 
 ```shell
