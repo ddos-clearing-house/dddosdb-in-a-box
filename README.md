@@ -1,4 +1,4 @@
-# dddosdb-in-a-box
+# DDoSDB-in-a-box
 DDoSDB system embedded in a virtual machine 
 
 
