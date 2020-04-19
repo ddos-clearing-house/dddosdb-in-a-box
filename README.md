@@ -2,8 +2,22 @@
 DDoSDB system embedded in a virtual machine 
 
 
+
+
 ```shell
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+
+# Which hosts are allowed
+#ALLOWED_HOSTS = ['ddosdb.org', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
+STATIC_ROOT = '/opt/ddosdb-static/'
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'ddosdb',
+        'USER': 'ddosdb',
+        'PASSWORD': 'ddosdb',
+        'HOST': 'localhost'
+    }
+}
 ```
