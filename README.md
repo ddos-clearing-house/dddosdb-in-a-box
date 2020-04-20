@@ -10,15 +10,7 @@ DDoSDB system embedded in a virtual machine
  5. Generate fingerprints using  `Dissector`
  6. List the fingerprints generated on Web Interface
 
-```mermaid
-graph LR
-  B[Dissector] -->|upload| C[DDoSDB]
-  subgraph DDoSDB
-  C -->| | D[Web Interface]
-  C -->| | E[Database]  
-  end
-  ```
-  
+[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQltEaXNzZWN0b3JdIC0tPnx1cGxvYWR8IENbRERvU0RCXVxuICBzdWJncmFwaCBERG9TREJcbiAgQyAtLT58IHwgRFtXZWIgSW50ZXJmYWNlXVxuICBDIC0tPnwgfCBFW0RhdGFiYXNlXSAgXG4gIGVuZFxuXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQltEaXNzZWN0b3JdIC0tPnx1cGxvYWR8IENbRERvU0RCXVxuICBzdWJncmFwaCBERG9TREJcbiAgQyAtLT58IHwgRFtXZWIgSW50ZXJmYWNlXVxuICBDIC0tPnwgfCBFW0RhdGFiYXNlXSAgXG4gIGVuZFxuXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
   ```mermaid
 graph LR
 A[Dissector] -- Link text --> B((Circle))
