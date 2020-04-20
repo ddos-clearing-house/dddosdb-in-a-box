@@ -10,6 +10,14 @@ DDoSDB system embedded in a virtual machine
  5. Generate fingerprints using  `Dissector`
  6. List the fingerprints generated on Web Interface
 
+```
+graph LR
+  B[Dissector] -->|upload| C[DDoSDB]
+  C -->| | D[Web Interface]
+  C -->| | E[Database]
+  D --> E
+  E --> D
+  ```
  
  ### Access the Web Interface
 ---
