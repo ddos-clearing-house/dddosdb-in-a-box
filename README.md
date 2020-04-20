@@ -25,6 +25,8 @@ Use the following credentials to access the Web Interface. You can add more user
 
 ![WEB interface](https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/ddosdb.gif?s=200) 
 
+<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
+
 ### Web interface configuration
 ---
 
