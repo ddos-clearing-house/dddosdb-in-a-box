@@ -23,7 +23,7 @@ Use the following credentials to access the Web Interface. You can add more user
 |--|--|
 |  ddosdb| 071739440782b7c6581241607acca8b7 |
 
-<img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/ddosdb.gif" width="60%" height="60%" style="border:1px solid black>
+<img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/ddosdb.gif" width="60%" height="60%"  border=1>
 
 
 
