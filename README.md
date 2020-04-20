@@ -18,6 +18,14 @@ graph LR
   C -->| | E[Database]  
   end
   ```
+  
+  ```mermaid
+graph LR
+A[Dissector] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
  
  ### Access the Web Interface
 ---
