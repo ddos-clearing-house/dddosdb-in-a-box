@@ -23,7 +23,7 @@ Use the following credentials to access the Web Interface. You can add more user
 |--|--|
 |  ddosdb| 071739440782b7c6581241607acca8b7 |
 
-![WEB interface](https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/ddosdb.gif)
+![WEB interface](https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/ddosdb.gif){:height="50%" width="50%"}
 
 ### Web interface configuration
 ---
@@ -72,10 +72,9 @@ Dissector is reponsable for process a `.pcap` file and extract its characteristi
  1. Download the last version of software
 `git clone https://github.com/ddos-clearing-house/ddos_dissector`
  2. Use the provided pcap samples to generate fingerprints and update to the repository
- 3. 
-[https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dissector.gif](https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dissector.gif)
+ 
 
-![Dissector interface](https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dissector.gif)
+![Dissector interface](https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dissector.gif){:height="50%" width="50%"}
 
 
 
