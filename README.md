@@ -79,4 +79,17 @@ Dissector is reponsable for process a `.pcap` file and extract its characteristi
  
  <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dissector.gif" width="50%" height="50%" border="1px">
 
+### Configuration Files for Dissector
 
+- filename: /home/ddosdb/ddos_dissector/src/settings.py
+```shell
+POOL_SIZE = 4
+
+# IP address used to submit the fingerprints
+DDOSDB_URL = "http://10.0.0.10/"
+
+# Username for DDoSDB for uploading the attack vector and fingerprint
+USERNAME = "ddosdb"
+# Password for DDoSDB for uploading the attack vector and fingerprint
+PASSWORD = "071739440782b7c6581241607acca8b7"
+```
