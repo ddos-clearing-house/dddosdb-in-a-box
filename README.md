@@ -16,8 +16,9 @@ Note: The Virtual Machine is configured to get IP address from DHCP (bridge mode
 | user | pass |
 |--|--|
 |  ddosdb| ddosdb |
-
-![WEB interface](https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/webinterface.png#thumbnail bordered)
+<kbd>
+![WEB interface](https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/webinterface.png)
+</kbd>
 
 img[src~="thumbnail"] {
    width:150px;
