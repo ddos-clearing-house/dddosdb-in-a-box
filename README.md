@@ -77,8 +77,11 @@ Dissector is reponsable for process a `.pcap` file and extract its characteristi
 `git clone https://github.com/ddos-clearing-house/ddos_dissector`
  2. Use the provided pcap samples to generate fingerprints and update to the repository
  
- <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dissector.gif" width="50%" height="50%" border="1px">
+ <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dissector.gif" width="60%" height="60%" border="1px">
 
+```shell
+python3 ddos_dissector_cli.py --input ./../pcap_samples/sample2.pcap --log /tmp/log.txt
+```
 ### Configuration Files for Dissector
 
 - filename: /home/ddosdb/ddos_dissector/src/settings.py
