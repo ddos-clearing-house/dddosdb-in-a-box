@@ -11,13 +11,7 @@ DDoSDB system embedded in a virtual machine
  6. List the fingerprints generated on Web Interface
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQltEaXNzZWN0b3JdIC0tPnx1cGxvYWR8IENbRERvU0RCXVxuICBzdWJncmFwaCBERG9TREJcbiAgQyAtLT58IHwgRFtXZWIgSW50ZXJmYWNlXVxuICBDIC0tPnwgfCBFW0RhdGFiYXNlXSAgXG4gIGVuZFxuXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQltEaXNzZWN0b3JdIC0tPnx1cGxvYWR8IENbRERvU0RCXVxuICBzdWJncmFwaCBERG9TREJcbiAgQyAtLT58IHwgRFtXZWIgSW50ZXJmYWNlXVxuICBDIC0tPnwgfCBFW0RhdGFiYXNlXSAgXG4gIGVuZFxuXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
-  ```mermaid
-graph LR
-A[Dissector] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+
  
  ### Access the Web Interface
 ---
