@@ -1,4 +1,9 @@
 # DDoSDB-in-a-box
+
+
+<img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/logo-box.png" width="60%" height="60%"  border=1>
+
+
 DDoSDB system embedded in a virtual machine 
 
 
