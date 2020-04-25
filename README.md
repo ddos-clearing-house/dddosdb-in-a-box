@@ -1,5 +1,8 @@
- #<img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dch-box.png" width="40%" height="20%"  border=1>
+ # <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dch-box.png" width="40%" height="20%"  border=1>
+ 
  <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/in-a-box.png" width="40%" height="20%"  border=1>
+ ---
+ 
 <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/box-p2p.png" width="40%" height="20%"  border=1>
 DDoSDB system embedded in a virtual machine 
 
