@@ -100,5 +100,15 @@ USERNAME = "ddosdb"
 # Password for DDoSDB for uploading the attack vector and fingerprint
 PASSWORD = "071739440782b7c6581241607acca8b7"
 ```
-# Converter
+### Converter
+
+The converter translates the processed fingerprints to mitigation rules. The system provides one converter `convert_iptables` that converts fingerprints to firewall IPtables. 
+
+The following animation shows the process.
+
+
+
+
+
+
 
