@@ -107,7 +107,7 @@ The converter translates the processed fingerprints to mitigation rules. The sys
 The following animation shows the process.
 
 
-
+<img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/converter.gif">
 
 
 
