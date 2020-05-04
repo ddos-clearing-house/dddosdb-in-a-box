@@ -8,7 +8,7 @@
 
 ## First steps:
 
- 1. Download the Virtual Machine <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/download.gif" width="20%" height="20%"  border=1>
+ 1. Download the Virtual Machine <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/download.png" width="20%" height="20%"  border=1>
  2. Run the Virtual Machine using the software Virtual Box
  4. Connect to the IP using your browser: http://IP/
  5. Generate fingerprints using  `Dissector`
