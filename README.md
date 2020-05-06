@@ -5,13 +5,14 @@
 
 
 
-<a href="https://downloads.sidnlabs.nl/ddosdb/DDoSDB-in-a-box.ova">
 <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/box-p2p-zoom.png">
-</a>
 
 ## First steps:
 
- 1. Download the Virtual Machine <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/download.png" width="15%" height="15%"  border=1>
+ 1. Download the Virtual Machine 
+ 
+ <a href="https://downloads.sidnlabs.nl/ddosdb/DDoSDB-in-a-box.ova">
+ <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/download.png" width="15%" height="15%"  border=1></a>
  2. Run the Virtual Machine using the software Virtual Box
  4. Connect to the IP using your browser: http://IP/
  5. Generate fingerprints using  `Dissector`
