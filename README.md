@@ -2,9 +2,12 @@
  
  DDoSDB system embedded in a virtual machine. As depicted, the system has 3 components: dissector, database, and converter.
 
+
+
+
+<a href="https://downloads.sidnlabs.nl/ddosdb/DDoSDB-in-a-box.ova">
 <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/box-p2p-zoom.png">
-
-
+</a>
 
 ## First steps:
 
