@@ -9,7 +9,7 @@
 
 ## First steps:
 
- 1. Download the Virtual Machine <a href="https://downloads.sidnlabs.nl/ddosdb/DDoSDB-in-a-box.ova.gz">
+ 1. Download the Virtual Machine <a href="https://surfdrive.surf.nl/files/index.php/s/e0U0VoMqiiH1ae1/download?path=%2F&files=ddosdb-in-a-box%20new.ova">
  <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/download.png" width="15%" height="15%"  border=1></a>
  2. Run the Virtual Machine using the software Virtual Box
  4. Connect to the IP using your browser: http://IP/
@@ -23,15 +23,15 @@
 
 | user | pass |
 |--|--|
-|  ddosdb| ddosdb|
-|  root| root|
+|  ddosdb| ddosdbddosdb|
+|  root| givemeroot!|
 
 
  ### Access the Web Interface
 ---
-The VM has all the services running and ready to go. You should be able to connect to the Web server simply using the IP address of the VM in our browser.
+The VM has all the services running and ready to go. You should be able to connect to the Web server simply using the IP address of the VM in your browser.
 
-**Note**: The Virtual Machine is configured to get IP address from DHCP (bridge mode). You can define the IP address manually, if you prefer. Be sure you can reach it h host system. 
+**Note**: The Virtual Machine is configured to get IP address from DHCP (bridge mode). You can define the IP address manually, if you prefer. Be sure you can reach it from the host system. 
 
 Use the following credentials to access the Web Interface. You can add more users following the instructions.
 
@@ -58,7 +58,7 @@ Directory structure:
   
   configuration file: `/opt/ddosdb/website/settings_local.py`
   **main** directives: 
-```shell
+```bash
 # Which hosts are allowed to access the Web interface
 # ALLOWED_HOSTS = ['ddosdb.org', 'localhost', '127.0.0.1']
 # This allows all hosts to connect to the Web interface
