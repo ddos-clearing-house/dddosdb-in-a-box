@@ -35,9 +35,10 @@ The VM has all the services running and ready to go. You should be able to conne
 
 Use the following credentials to access the Web Interface. You can add more users following the instructions.
 
-| user | pass |
-|--|--|
-|  ddosdb| 071739440782b7c6581241607acca8b7 |
+| user | pass | type |
+|--|--|--|
+|  ddosdb| 071739440782b7c6581241607acca8b7 | admin user (for adding other users) | 
+| upload | uploadupload | user with upload rights (for dissector) |
 
 <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/ddosdb.gif" width="60%" height="60%"  border=1>
 
