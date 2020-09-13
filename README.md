@@ -1,7 +1,14 @@
- # <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dch-box.png" width="40%" height="20%"  border=1>
  <p align="center"><img width=30.5% src="https://github.com/ddos-clearing-house/ddos_dissector/blob/3.0/media/header.png?raw=true"></p>
 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+[![GitHub Issues](https://img.shields.io/github/issues/dddosdb-in-a-box/ddos_dissector)](https://github.com/ddos-clearing-house/dddosdb-in-a-box/issues)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<img alt="GitHub commits since tagged version" src="https://img.shields.io/github/commits-since/ddos-clearing-house/dddosdb-in-a-box/3.0.0">
  
+ ## Overview
+
  DDoSDB system embedded in a virtual machine. As depicted, the system has 3 components: dissector, database, and converter.
 
 
