@@ -1,4 +1,6 @@
  # <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dch-box.png" width="40%" height="20%"  border=1>
+ <p align="center"><img width=30.5% src="https://github.com/ddos-clearing-house/ddos_dissector/blob/3.0/media/header.png?raw=true"></p>
+
  
  DDoSDB system embedded in a virtual machine. As depicted, the system has 3 components: dissector, database, and converter.
 
