@@ -1,6 +1,6 @@
  <p align="center"><img width=30.5% src="https://github.com/ddos-clearing-house/ddos_dissector/blob/3.0/media/header.png?raw=true"></p>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![GitHub issues](https://img.shields.io/github/issues/ddos-clearing-house/dddosdb-in-a-box)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
@@ -29,11 +29,11 @@
  6. List the fingerprints generated on Web Interface (click on the Overview button at the start page)
 
 
-
+<p align="center" width="100%">
 
 <a href="https://www.youtube.com/watch?v=_XlM2-KIMBk">
- <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/video-preview.png?raw=true" width="35%" height="35%"  border=1  class="center"></a>
-
+ <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/video-preview.png?raw=true" width="35%" height="35%"  border=1  align="center"></a>
+ </p>
 ### Virtual Machine Credentials
 ---
 
@@ -56,8 +56,10 @@ Use the following credentials to access the Web Interface. You can add more user
 |  ddosdb| 071739440782b7c6581241607acca8b7 | admin user (for adding other users) | 
 | upload | uploadupload | user with upload rights (for dissector) |
 
-<img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/ddosdb.gif" width="60%" height="60%"  border=1>
+<p align="center" width="100%">
 
+<img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/ddosdb.gif" width="60%" height="60%"  border=1>
+</p>
 
 
 ### Web interface configuration
@@ -107,8 +109,10 @@ Dissector is reponsable for process a `.pcap` file and extract its characteristi
  1. Download the last version of software
 `git clone https://github.com/ddos-clearing-house/ddos_dissector`
  2. Use the provided pcap samples to generate fingerprints and update to the repository
- 
+
+<p align="center" width="100%">
  <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/dissector.gif" width="60%" height="60%" border="1px">
+</p>
 
 ```shell
 python3 ddos_dissector_cli.py --input ./../pcap_samples/sample2.pcap --log /tmp/log.txt
@@ -132,9 +136,8 @@ PASSWORD = "071739440782b7c6581241607acca8b7"
 The converter translates the processed fingerprints to mitigation rules. The system provides one converter `convert_iptables` that converts fingerprints to firewall IPtables. 
 
 The following animation shows the process.
-
-
+<p align="center" width="100%">
 <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/converter.gif" width="60%" height="60%"  border=1>
-
+</p>
 
 
