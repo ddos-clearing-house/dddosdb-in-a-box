@@ -2,7 +2,7 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-![GitHub issues](https://img.shields.io/github/issues/ddos-clearing-house/dddosdb-in-a-box)(https://github.com/ddos-clearing-house/dddosdb-in-a-box/issues)
+![GitHub issues](https://img.shields.io/github/issues/ddos-clearing-house/dddosdb-in-a-box)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ddos-clearing-house/dddosdb-in-a-box)
