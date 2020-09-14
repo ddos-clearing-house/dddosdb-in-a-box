@@ -25,8 +25,8 @@
  2. Run the Virtual Machine using the software Virtual Box
  4. Connect to the IP using your browser: http://localhost/
  5. Generate fingerprints using <a href="https://github.com/ddos-clearing-house/ddos_dissector">
- `Dissector`</a> : ~/ddos_dissector/ddos_dissector.py
- 6. List the fingerprints generated on Web Interface
+ `Dissector`</a> (in the VM this is located at ~/.ddosdb/ddos_dissector/ddos_dissector.py)
+ 6. List the fingerprints generated on Web Interface (click on the Overview button at the start page)
 
 
 
