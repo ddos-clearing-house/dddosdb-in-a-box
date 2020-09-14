@@ -6,6 +6,8 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ddos-clearing-house/dddosdb-in-a-box)
+<img alt="GitHub commits since tagged version" src="https://img.shields.io/github/last-commit/ddos-clearing-house/dddosdb-in-a-box">
+
  
  ## Overview
 
@@ -14,18 +16,23 @@
 
 
 
-<img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/box-p2p-zoom.png">
+<!-- <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/box-p2p-zoom.png"> -->
 
 ## First steps:
 
  1. Download the Virtual Machine <a href="https://surfdrive.surf.nl/files/index.php/s/e0U0VoMqiiH1ae1/download?path=%2F&files=ddosdb-in-a-box%20new.ova">
  <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/download.png" width="15%" height="15%"  border=1></a>
  2. Run the Virtual Machine using the software Virtual Box
- 4. Connect to the IP using your browser: http://IP/
- 5. Generate fingerprints using  `Dissector`
+ 4. Connect to the IP using your browser: http://localhost/
+ 5. Generate fingerprints using <a href="https://github.com/ddos-clearing-house/ddos_dissector">
+ `Dissector`</a> : ~/ddos_dissector/ddos_dissector.py
  6. List the fingerprints generated on Web Interface
 
-[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQltEaXNzZWN0b3JdIC0tPnx1cGxvYWR8IENbRERvU0RCXVxuICBzdWJncmFwaCBERG9TREJcbiAgQyAtLT58IHwgRFtXZWIgSW50ZXJmYWNlXVxuICBDIC0tPnwgfCBFW0RhdGFiYXNlXSAgXG4gIGVuZFxuXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQltEaXNzZWN0b3JdIC0tPnx1cGxvYWR8IENbRERvU0RCXVxuICBzdWJncmFwaCBERG9TREJcbiAgQyAtLT58IHwgRFtXZWIgSW50ZXJmYWNlXVxuICBDIC0tPnwgfCBFW0RhdGFiYXNlXSAgXG4gIGVuZFxuXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
+
+
+
+<a href="https://www.youtube.com/watch?v=_XlM2-KIMBk">
+ <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/video-preview.png?raw=true" width="35%" height="35%"  border=1  class="center"></a>
 
 ### Virtual Machine Credentials
 ---
@@ -128,7 +135,6 @@ The following animation shows the process.
 
 
 <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/converter.gif" width="60%" height="60%"  border=1>
-
 
 
 
