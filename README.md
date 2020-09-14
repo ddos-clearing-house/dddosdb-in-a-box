@@ -1,5 +1,6 @@
  <p align="center"><img width=30.5% src="https://github.com/ddos-clearing-house/ddos_dissector/blob/3.0/media/header.png?raw=true"></p>
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![GitHub issues](https://img.shields.io/github/issues/ddos-clearing-house/dddosdb-in-a-box)
@@ -7,8 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ddos-clearing-house/dddosdb-in-a-box)
 <img alt="GitHub commits since tagged version" src="https://img.shields.io/github/last-commit/ddos-clearing-house/dddosdb-in-a-box">
-
- 
+  
  ## Overview
 
  DDoSDB system embedded in a virtual machine. As depicted, the system has 3 components: dissector, database, and converter.
@@ -32,9 +32,11 @@
 <p align="center" width="100%">
 
 <a href="https://www.youtube.com/watch?v=_XlM2-KIMBk">
- <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/video-preview.png?raw=true" width="35%" height="35%"  border=1  align="center"></a>
+ <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/video-preview.png?raw=true" width="35%" height="35%"  border=1  target="_blank"></a>
  </p>
-### Virtual Machine Credentials
+ 
+ 
+## Virtual Machine Credentials
 ---
 
 | user | pass |
@@ -67,7 +69,7 @@ Use the following credentials to access the Web Interface. You can add more user
 
 ##### Users and Permissions (Django)
  Web interface user adminstration [add new users and grant  permissions]
- - `htttp:/IP/admin`
+ - `htttp:/localhost/admin`
  
 ##### Site Configuration
 
