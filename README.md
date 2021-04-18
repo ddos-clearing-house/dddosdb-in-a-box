@@ -27,7 +27,7 @@
 
 ## First steps:
 
- 1. Download the Virtual Machine <a href="https://surfdrive.surf.nl/files/index.php/s/e0U0VoMqiiH1ae1/download?path=%2F&files=ddosdb-in-a-box%20new.ova">
+ 1. Download the Virtual Machine <a href="https://surfdrive.surf.nl/files/index.php/s/e0U0VoMqiiH1ae1/download?path=%2F&files=ddosdb-in-a-box.ova">
  <img src="https://github.com/ddos-clearing-house/dddosdb-in-a-box/blob/master/imgs/download.png" width="15%" height="15%"  border=1></a>
  2. Run the Virtual Machine using the software Virtual Box
  4. Connect to the IP using your browser: http://localhost/
