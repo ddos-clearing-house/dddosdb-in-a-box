@@ -49,7 +49,7 @@
 | user | pass |
 |--|--|
 |  ddosdb| ddosdbddosdb|
-|  root| givemeroot!|
+|  root| use sudo|
 
 
  ### Access the Web Interface
@@ -62,7 +62,7 @@ Use the following credentials to access the Web Interface. You can add more user
 
 | user | pass | type |
 |--|--|--|
-|  ddosdb| 071739440782b7c6581241607acca8b7 | admin user (for adding other users) | 
+|  ddosdb| ddosdbddosdb | admin user (for adding other users) | 
 | upload | uploadupload | user with upload rights (for dissector) |
 
 <p align="center" width="100%">
